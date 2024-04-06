@@ -6,8 +6,8 @@
 <div align="center">
 
 <!-- skills -->
-<h4>Languages</h4>
-<h4>Frameworks</h4>
+<!-- <h4>Languages</h4>
+<h4>Frameworks</h4> -->
 
 <!-- socials/contact -->
 <!-- linkedIn/certs -->   
