@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rosalyn Scheffel
+### Hi there 👋 I am Rosalyn
 <!-- banner -->
 <!-- about me -->
 
