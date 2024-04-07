@@ -1,19 +1,26 @@
-### Hi there 👋 I am Rosalyn
-<!-- banner -->
-<!-- about me -->
+### Hi there 👋 I am 
 
+
+
+
+<!-- banner -->
+<img src="assets/banner.jpg">
+<!-- about me -->
 
 <div align="center">
 
 <!-- skills -->
+
 <!-- <h4>Languages</h4>
 <h4>Frameworks</h4> -->
-	📬 Contact Me:
+
+    📬 Contact Me:
+
 <!-- socials/contact -->
-<!-- linkedIn/certs -->   
+
+<!-- linkedIn/certs -->
+
 </div>
-
-
 
 <!--
 **RosalynS78/RosalynS78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
