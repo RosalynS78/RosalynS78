@@ -8,7 +8,7 @@
 <!-- skills -->
 <!-- <h4>Languages</h4>
 <h4>Frameworks</h4> -->
-
+	📬 Contact Me:
 <!-- socials/contact -->
 <!-- linkedIn/certs -->   
 </div>
