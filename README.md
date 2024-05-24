@@ -1,6 +1,6 @@
 # About Me
 <!-- banner -->
-[<img src="assets/banner.jpg" alt="Banner" title="👋 Hi there! Check out my Portfolio"/>](https://rosalyns78.github.io/final-portfolio/)
+[<img src="assets/banner.jpg" alt="Banner" title="👋 Hi there! Check out my Portfolio"/>](https://rosalyns78.github.io/newPort/)
 <!-- about me -->
 * associate's in graphic design
 * certificate in full stack web development
